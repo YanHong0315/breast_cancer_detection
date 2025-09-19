@@ -64,9 +64,6 @@ FINAL PROJECT/
 ├── breast_cancer_final.ipynb              # Main Jupyter notebook with complete pipeline
 ├── report/                                # Academic report and documentation
 │   ├── FINAL PROJECT REPORT.pdf          # Complete final report (6 chapters)
-│   ├── mytopic.txt                        # Project template specifications
-│   ├── midterm report.txt                 # Draft report submission
-│   └── figure/                            # Generated visualizations and figures
 ├── dataset/                               # Mammography image dataset
 │   ├── jpeg/                             # 10,237 mammography images
 │   └── csv/                              # Metadata and case descriptions
@@ -85,7 +82,6 @@ FINAL PROJECT/
 ├── results/                              # Model outputs and analysis
 │   ├── prediction_results.json           # Detailed prediction results
 │   └── ensemble_info.json               # Ensemble configuration and metrics
-└── documentation/                        # Additional project documentation
 ```
 
 ## 🛠️ Technical Implementation
